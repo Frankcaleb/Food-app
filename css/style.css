@@ -184,6 +184,7 @@ a:focus {
   color: #f7f7f7;
   font-size: 14px;
   text-transform: uppercase;
+  border-radius: 5px;
 }
 .quote_btn-container:hover{
   color: green;
